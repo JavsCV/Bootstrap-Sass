@@ -1,0 +1,26 @@
+.cajaPadre {
+  width: 80%;
+  margin: 0 auto;
+  height: 250px;
+  background: #dadada;
+
+
+
+  display: flex;
+}
+
+.caja {
+  height:50px;
+  width: 100px;
+  background: tomato;
+  border: 2px solid black;
+}
+
+.caja1 {
+  margin-right: auto;
+  margin-top: auto;
+}
+
+.direccion-texto {
+  direction: rtl;
+}

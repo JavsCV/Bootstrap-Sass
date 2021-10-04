@@ -1,0 +1,11 @@
+.alto {
+  display: flex;
+  height: 250px;
+}
+
+
+.total-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
